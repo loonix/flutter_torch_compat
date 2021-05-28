@@ -1,4 +1,4 @@
-# Torch compat  
+# Torch compat - With Null Safety
   
 [![Pub](https://img.shields.io/pub/v/torch_compat.svg)](https://pub.dartlang.org/packages/torch_compat)
   
